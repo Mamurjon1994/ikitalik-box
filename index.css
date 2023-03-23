@@ -1,0 +1,17 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+.box1:hover{
+    box-shadow: inset 0px 0px 2px 2px blue;
+}
+.box2:hover{
+    box-shadow: inset 0px 0px 2px 2px blue;
+}
